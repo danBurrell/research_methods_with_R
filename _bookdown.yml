@@ -1,6 +1,6 @@
-book_filename: "Methods_Crump"
-repo: https://github.com/CrumpLab/ResearchMethods
-edit: https://github.com/CrumpLab/ResearchMethods/%s
+book_filename: "Methods_Burrell"
+repo: https://github.com/danBurrell/research_methods_with_R
+edit: https://github.com/danBurrell/research_methods_with_R/%s
 output_dir: "docs"
 language:
   ui:
